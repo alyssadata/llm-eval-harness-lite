@@ -9,7 +9,7 @@
 ## Model
 Name: qwen2.5-32b-instruct
 Source: LM Studio
-Preset/System prompt: Public Operator Prompt – Test Run 1
+Preset/System prompt: Blank Model
 
 ## Settings
 Preset/System prompt: Blank Model
