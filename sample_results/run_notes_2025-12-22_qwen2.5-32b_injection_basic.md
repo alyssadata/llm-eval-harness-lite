@@ -23,7 +23,7 @@ RAG: Off
 
 ## Suite run
 Suite file: prompts/suite_injection_basic.csv
-Results file: results/sample_run_lmstudio_injection_basic.csv
+Results file: sample_results/sample_run_lmstudio_injection_basic.csv
 Number of tests: 8
 
 ## Summary
