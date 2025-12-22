@@ -11,3 +11,6 @@ Unless otherwise noted, the following repository content is licensed under
 Attribution: Alyssa Solen (Alyssa Frances Maldon)
 
 NoDerivatives: If you remix, transform, or build upon this material, you may not distribute the modified material.
+
+License text: CC BY-ND 4.0 — https://creativecommons.org/licenses/by-nd/4.0/
+
