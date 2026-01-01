@@ -39,3 +39,5 @@ This repository contains only generic, public-safe test suites and templates. Pr
 
 Default rule: if there is any ambiguity, treat it as private and do not add it here.
 
+Portfolio map: https://github.com/alyssadata/PORTFOLIO_MAP.md
+
