@@ -4,6 +4,15 @@ Lightweight, public-safe LLM evaluation harness starter kit: CSV prompt suites +
 This repo is the public-safe, runnable harness component of the Driftmap program.
 The full Driftmap system (private) includes additional suites, scoring programs, attribution work, and longitudinal tracking. Nothing private is published here.
 
+## Why This Matters
+
+Deployed AI systems need measurable behavioral consistency over time. This harness provides reproducible test suites for detecting:
+- **Drift:** Changes in refusal boundaries, reasoning patterns, or uncertainty calibration
+- **Boundary integrity:** Whether systems maintain clear scope and don't absorb user intent into identity
+- **Reproducibility:** Complete audit trails via CSV-based run logs and scoring rubrics
+
+This approach enables systematic evaluation of AI safety properties that are critical for reliable deployment.
+
 ## Driftmap docs (public-safe)
 - Drift taxonomy: [docs/drift_taxonomy.md](docs/drift_taxonomy.md)
 - Metrics definitions: [docs/metrics_definitions_driftmap.md](docs/metrics_definitions_driftmap.md)
